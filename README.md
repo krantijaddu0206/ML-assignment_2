@@ -1,6 +1,6 @@
 # C5710-Machine-Learning-Home-Assignment-2
 
-NAME - Sai Swetha Manuguri #700770652 
+NAME - Venkata kranti kumar Jaddu #700773514 
 
 # Question 7. Decision Tree on Iris — Depth Sweep (scikit-learn)
 
